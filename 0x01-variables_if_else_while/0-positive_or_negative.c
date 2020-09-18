@@ -1,7 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* assign random number to the variable */
+/**
+*assign random 
+*number to the variable
+*Return:0
+*/
 
 int main(void)
 {
