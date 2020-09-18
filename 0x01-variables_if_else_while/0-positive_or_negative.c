@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* assign random 
+* assign random
 * number to the variable
 * Return: 0
 */
